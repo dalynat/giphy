@@ -1,0 +1,1 @@
+This project is here to help you feel better by showing you some amazing GIFs! The page pulls GIFs from giphy.com then prints them on the page for your amusement. You can add your own buttons to see whatever you want.
